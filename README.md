@@ -1,3 +1,3 @@
 # GlassesSimulator
 
-## mainブランチではなくdeveloブランチで作業する事
+## mainブランチではなくdeveloｐブランチで作業する事
